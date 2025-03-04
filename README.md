@@ -1,8 +1,10 @@
 # Hi there! I'm Asaad 👋
 
+<script src="https://kit.fontawesome.com/f79178876e.js" crossorigin="anonymous"></script>
 <div align="center">
   <a href="https://typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Open+Source+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=
+    Hi+there!+I'm+Asaad+👋;Open+Source+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +20,7 @@
   <br>
   🔬 Exploring the intersections of AI, web technologies, and mobile development
   <br>
-  📫 Reach me at: asaad@dev.com
+  📫 Reach me at: asaad.work2010@gmail.com
 </p>
 
 <hr>
