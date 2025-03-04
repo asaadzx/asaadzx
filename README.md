@@ -26,20 +26,20 @@
 ## 🔥 Languages, Frameworks & Tools 🔥
 
 <p align="center">
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" height="25" alt="Linux" style="color:#FCC624;"> Linux</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" height="25" alt="Bash" style="color:#4EAA25;"> Bash</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" height="25" alt="Python" style="color:#3776AB;"> Python</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" height="25" alt="Flutter" style="color:#02569B;"> Flutter</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" height="25" alt="C++" style="color:#00599C;"> C++</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" height="25" alt="HTML5" style="color:#E34F26;"> HTML5</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" height="25" alt="CSS3" style="color:#1572B6;"> CSS3</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" height="25" alt="JavaScript" style="color:#F7DF1E;"> JavaScript</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deno.svg" height="25" alt="Deno" style="color:#000000;"> Deno</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fresh.svg" height="25" alt="Fresh" style="color:#00FF00;"> Fresh</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" height="25" alt="PyTorch" style="color:#EE4C2C;"> PyTorch</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ollama.svg" height="25" alt="Ollama" style="color:#000000;"> Ollama</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="25" alt="GitHub" style="color:#181717;"> GitHub</code>
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" height="25" alt="Android" style="color:#3DDC84;"> Android</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f427.png" height="25" alt="Linux"> Linux</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f4bb.png" height="25" alt="Bash"> Bash</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f40d.png" height="25" alt="Python"> Python</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f98b.png" height="25" alt="Flutter"> Flutter</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f527.png" height="25" alt="C++"> C++</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f310.png" height="25" alt="HTML5"> HTML5</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f3a8.png" height="25" alt="CSS3"> CSS3</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f4d1.png" height="25" alt="JavaScript"> JavaScript</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f995.png" height="25" alt="Deno"> Deno</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f33f.png" height="25" alt="Fresh"> Fresh</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f525.png" height="25" alt="PyTorch"> PyTorch</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f916.png" height="25" alt="Ollama"> Ollama</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f419.png" height="25" alt="GitHub"> GitHub</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f4f1.png" height="25" alt="Android"> Android</code>
 </p>
 
 <hr>
