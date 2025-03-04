@@ -1,6 +1,4 @@
-# Hi there! I'm Asaad 👋
-
-<div align="center">
+<div align="left">
   <a href="https://typing-svg.demolab.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I+am+Asaad+👋;Open+Source+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;" alt="Typing SVG" />
   </a>
@@ -103,15 +101,15 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
-  <a href="https://github.com/asaadzx?tab=repositories" title="Show More Repositories">🔎 Explore More 🔍</a>
-</h4>
-
 ## 🌱 About Me
 
 I'm deeply passionate about open-source development, machine learning, and creating innovative technologies that make a difference. My journey involves exploring cutting-edge tools like PyTorch, Ollama, and various web technologies. I love contributing to the open-source community and building projects that solve real-world problems.
 
 **Always learning, always growing!** 💡🚀
+
+<h4 align="center">
+  <a href="https://github.com/asaadzx?tab=repositories" title="Show More Repositories">🔎 Explore More 🔍</a>
+</h4>
 
 <!---
 - 👋 Hi, I’m @asaadzx
