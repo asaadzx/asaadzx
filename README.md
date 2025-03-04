@@ -106,9 +106,6 @@ I'm deeply passionate about open-source development, machine learning, and creat
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
-
-<hr>
 
 <!---<h4 align="center">
   <a href="https://github.com/asaadzx?tab=repositories" title="Show More Repositories">🔎 Explore More 🔍</a>
