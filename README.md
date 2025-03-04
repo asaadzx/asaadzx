@@ -47,7 +47,7 @@
 ## ⚡ GitHub Stats ⚡
 
 <p align="center">
-  <a href="https://github.com/asaaddev">
+  <a href="https://github.com/asaadzx">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asaaddev&theme=dark&background=000000" alt="Asaad's GitHub Streak" />
   </a>
 </p>
