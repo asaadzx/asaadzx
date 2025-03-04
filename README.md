@@ -7,8 +7,8 @@
 </div>
 
 <h5 align="center">
-  <code><a href="https://asaadzx.deno.dev" title="Personal Website"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/web.svg"> Website</a></code>
-  <code><a href="https://github.com/asaadzx" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"> GitHub</a></code>
+<code><a href="https://asaadzx.deno.dev" title="Personal Website"><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web/web-original.svg" alt="Website"> Website</a></code>
+<code><a href="https://github.com/asaadzx" title="GitHub Profile"><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"> GitHub</a></code>
 </h5>
 
 <p align="center">
@@ -35,7 +35,7 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3"> CSS3</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript"> JavaScript</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="25" alt="Deno"> Deno</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="Next.js"> Next.js</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fresh/fresh-original.svg" height="25" alt="Fresh"> Fresh</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"> PyTorch</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="GitHub"> GitHub</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="Android"> Android</code>
@@ -69,11 +69,35 @@
 ## 👨‍💻 Featured Repositories 👨‍💻
 
 <div width="100%" align="center">
+  <a align="right" href="https://github.com/asaadzx/Anas-bn-malek-School" title="Anas ibn malek">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Anas-bn-malek-School&theme=dark" />
+  </a>
+  <a align="right" href="https://github.com/asaadzx/Chemical-Goose-reaction" title="Goose game">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Chemical-Goose-reaction&theme=dark" />
+  </a>
+  <a align="right" href="https://github.com/asaadzx/Grok-Linux-APP" title="Grok AI">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark" />
+  </a>
+  <a align="right" href="https://github.com/D3f4ult-dev/sharkwiki" title="Shark wiki">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=sharkwiki&theme=dark" />
+  </a>
   <a align="left" href="https://github.com/asaadzx/epyac-ter" title="AI Projects">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=epyac-ter&theme=dark" />
   </a>
-  <a align="right" href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions OS">
+  <a align="right" href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions SHarkOS">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=SharkOS.org&theme=dark" />
+  </a>
+  <a align="right" href="https://github.com/asaadzx/ACII-Arteitest" title="ACII artiest">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=ACII-Arteitest&theme=dark" />
+  </a>
+  <a align="right" href="https://github.com/asaadzx/file-explorer-with-cpp" title="cli-File explorer">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=file-explorer-with-cpp&theme=dark" />
+  </a>
+  <a align="right" href="https://github.com/asaadzx/flutter-learning-journy" title="Flutter">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=flutter-learning-journy&theme=dark" />
+  </a>
+  <a align="right" href="https://github.com/asaadzx/morse-Translator-cpp" title="Moras trans">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=morse-Translator-cpp&theme=dark" />
   </a>
 </div>
 
