@@ -79,7 +79,7 @@
   <a align="right" href="https://github.com/D3f4ult-dev/sharkwiki" title="Shark wiki">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=sharkwiki&theme=dark" />
   </a>
-  <a align="left" href="https://github.com/asaadzx/epyac-ter" title="AI Projects">
+  <a align="right" href="https://github.com/asaadzx/epyac-ter" title="AI Projects">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=epyac-ter&theme=dark" />
   </a>
   <a align="right" href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions SHarkOS">
