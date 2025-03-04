@@ -7,7 +7,7 @@
 </div>
 
 <h5 align="center">
-  <code><a href="https://asaadzx.deno.dev" title="Personal Website"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/web.svg"> Website</a></code>
+  <code><a href="https://asaadzx.deno.dev" title="Personal Website"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M0 336c0 79.5 64.5 144 144 144l368 0c70.7 0 128-57.3 128-128c0-61.9-44-113.6-102.4-125.4c4.1-10.7 6.4-22.4 6.4-34.6c0-53-43-96-96-96c-19.7 0-38.1 6-53.3 16.2C367 64.2 315.3 32 256 32C167.6 32 96 103.6 96 192c0 2.7 .1 5.4 .2 8.1C40.2 219.8 0 273.2 0 336z"/></svg> Website</a></code>
   <code><a href="https://github.com/asaaddev" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"> GitHub</a></code>
 </h5>
 
@@ -53,16 +53,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/asaaddev">
-    <img src="https://github-readme-stats.vercel.app/api?username=asaaddev&show_icons=true&theme=dark&count_private=true" alt="Asaad's GitHub Stats" />
+  <a href="https://github.com/asaadzx">
+    <img src="https://github-readme-stats.vercel.app/api?username=asaadzx&show_icons=true&theme=dark&count_private=true" alt="Asaad's GitHub Stats" />
   </a>
   <a href="https://github.com/asaaddev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaaddev&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaadzx&layout=compact&theme=dark" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaaddev&theme=github-dark" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaadzx&theme=github-dark" width="100%" alt="Contribution Graph" />
 </p>
 
 <hr>
@@ -70,18 +70,18 @@
 ## 👨‍💻 Featured Repositories 👨‍💻
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/asaaddev/ai-projects" title="AI Projects">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaaddev&repo=ai-projects&theme=dark" />
+  <a align="left" href="https://github.com/asaadzx/epyac-ter" title="AI Projects">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=ai-projects&theme=dark" />
   </a>
-  <a align="right" href="https://github.com/asaaddev/open-source-contributions" title="Open Source Contributions">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaaddev&repo=open-source-contributions&theme=dark" />
+  <a align="right" href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions OS">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=open-source-contributions&theme=dark" />
   </a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/asaaddev?tab=repositories" title="Show More Repositories">🔎 Explore More 🔍</a>
+  <a href="https://github.com/asaadzx?tab=repositories" title="Show More Repositories">🔎 Explore More 🔍</a>
 </h4>
 
 ## 🌱 About Me
