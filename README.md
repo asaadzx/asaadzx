@@ -66,7 +66,7 @@
 
 ## 👨‍💻 Featured Repositories 👨‍💻
 
-<div width="100%" align="center">
+<div width="100%" align="right">
   <a align="right" href="https://github.com/asaadzx/Anas-bn-malek-School" title="Anas ibn malek">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Anas-bn-malek-School&theme=dark" />
   </a>
