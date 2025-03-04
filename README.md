@@ -1,6 +1,5 @@
 # Hi there! I'm Asaad 👋
 
-<script src="https://kit.fontawesome.com/f79178876e.js" crossorigin="anonymous"></script>
 <div align="center">
   <a href="https://typing-svg.demolab.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=
@@ -28,20 +27,20 @@
 ## 🔥 Languages, Frameworks & Tools 🔥
 
 <p align="center">
-  <code><i class="fab fa-linux"></i> Linux</code>
-  <code><i class="fas fa-terminal"></i> Bash</code>
-  <code><i class="fab fa-python"></i> Python</code>
-  <code><i class="fab fa-flutter"></i> Flutter</code>
-  <code><i class="fas fa-code"></i> C++</code>
-  <code><i class="fab fa-html5"></i> HTML5</code>
-  <code><i class="fab fa-css3-alt"></i> CSS3</code>
-  <code><i class="fab fa-js"></i> JavaScript</code>
-  <code><i class="fab fa-deno"></i> Deno</code>
-  <code><i class="fas fa-leaf"></i> Fresh</code>
-  <code><i class="fas fa-brain"></i> PyTorch</code>
-  <code><i class="fas fa-robot"></i> Ollama</code>
-  <code><i class="fab fa-github"></i> GitHub</code>
-  <code><i class="fab fa-android"></i> Android</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" height="25" alt="Linux"> Linux</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" height="25" alt="Bash"> Bash</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" height="25" alt="Python"> Python</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" height="25" alt="Flutter"> Flutter</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" height="25" alt="C++"> C++</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" height="25" alt="HTML5"> HTML5</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" height="25" alt="CSS3"> CSS3</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" height="25" alt="JavaScript"> JavaScript</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deno.svg" height="25" alt="Deno"> Deno</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fresh.svg" height="25" alt="Fresh"> Fresh</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" height="25" alt="PyTorch"> PyTorch</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ollama.svg" height="25" alt="Ollama"> Ollama</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="25" alt="GitHub"> GitHub</code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" height="25" alt="Android"> Android</code>
 </p>
 
 <hr>
