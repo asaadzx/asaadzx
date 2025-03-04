@@ -33,7 +33,7 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3"> CSS3</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript"> JavaScript</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="25" alt="Deno"> Deno</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fresh/fresh-original.svg" height="25" alt="Fresh"> Fresh</code>
+  <code><img src="https://fresh.deno.dev/logo.svg?__frsh_c=608a6b59c83552bca1e4f893cc42f003cce993e6" height="25" alt="Fresh"> Fresh</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"> PyTorch</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="GitHub"> GitHub</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="Android"> Android</code>
@@ -70,10 +70,10 @@
   <a align="center" href="https://github.com/asaadzx/Chemical-Goose-reaction" title="Goose game">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Chemical-Goose-reaction&theme=dark" />
   </a>
-  <a align="left" href="https://github.com/asaadzx/Grok-Linux-APP" title="Grok AI">
+  <a align="center" href="https://github.com/asaadzx/Grok-Linux-APP" title="Grok AI">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark" />
   </a>
-  <a align="left" href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions SHarkOS">
+  <a align="center" href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions SHarkOS">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=SharkOS.org&theme=dark" />
   </a>
 </div>
