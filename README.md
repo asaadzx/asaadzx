@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <a href="https://typing-svg.demolab.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I+am+Asaad+👋;Open+Source+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;" alt="Typing SVG" />
   </a>
@@ -73,32 +73,32 @@ I'm deeply passionate about open-source development, machine learning, and creat
 
 ## 👨‍💻 Featured Repositories 👨‍💻
 
-<div width="100%" align="right">
+<div width="100%" align="center">
   <a align="right" href="https://github.com/asaadzx/Anas-bn-malek-School" title="Anas ibn malek">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Anas-bn-malek-School&theme=dark" />
   </a>
-  <a align="right" href="https://github.com/asaadzx/Chemical-Goose-reaction" title="Goose game">
+  <a align="center" href="https://github.com/asaadzx/Chemical-Goose-reaction" title="Goose game">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Chemical-Goose-reaction&theme=dark" />
   </a>
-  <a align="right" href="https://github.com/asaadzx/Grok-Linux-APP" title="Grok AI">
+  <a align="left" href="https://github.com/asaadzx/Grok-Linux-APP" title="Grok AI">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark" />
   </a>
   <a align="right" href="https://github.com/D3f4ult-dev/sharkwiki" title="Shark wiki">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=sharkwiki&theme=dark" />
   </a>
-  <a align="right" href="https://github.com/asaadzx/epyac-ter" title="AI Projects">
+  <a align="center" href="https://github.com/asaadzx/epyac-ter" title="AI Projects">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=epyac-ter&theme=dark" />
   </a>
-  <a align="right" href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions SHarkOS">
+  <a align="left" href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions SHarkOS">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=SharkOS.org&theme=dark" />
   </a>
   <a align="right" href="https://github.com/asaadzx/ACII-Arteitest" title="ACII artiest">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=ACII-Arteitest&theme=dark" />
   </a>
-  <a align="right" href="https://github.com/asaadzx/file-explorer-with-cpp" title="cli-File explorer">
+  <a align="center" href="https://github.com/asaadzx/file-explorer-with-cpp" title="cli-File explorer">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=file-explorer-with-cpp&theme=dark" />
   </a>
-  <a align="right" href="https://github.com/asaadzx/flutter-learning-journy" title="Flutter">
+  <a align="left" href="https://github.com/asaadzx/flutter-learning-journy" title="Flutter">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=flutter-learning-journy&theme=dark" />
   </a>
   <a align="right" href="https://github.com/asaadzx/morse-Translator-cpp" title="Moras trans">
