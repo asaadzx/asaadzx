@@ -67,6 +67,8 @@
 
 I'm deeply passionate about open-source development, machine learning, and creating innovative technologies that make a difference. My journey involves exploring cutting-edge tools like PyTorch, Ollama, and various web technologies. I love contributing to the open-source community and building projects that solve real-world problems.
 
+**Always learning, always growing!** 💡🚀
+
 <hr>
 
 ## 👨‍💻 Featured Repositories 👨‍💻
@@ -108,12 +110,10 @@ I'm deeply passionate about open-source development, machine learning, and creat
 
 <hr>
 
-
-**Always learning, always growing!** 💡🚀
-
 <h4 align="center">
   <a href="https://github.com/asaadzx?tab=repositories" title="Show More Repositories">🔎 Explore More 🔍</a>
 </h4>
+
 
 <!---
 - 👋 Hi, I’m @asaadzx
