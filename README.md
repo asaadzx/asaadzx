@@ -1,12 +1,13 @@
 <div align="center">
   <a href="https://typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I+am+Asaad+👋;Open+Source+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I'm+Asaad+👋;Open+Source+Innovator;Full+Stack+Developer;Machine+Learning+Explorer" alt="Typing SVG" />
   </a>
 </div>
 
 <h5 align="center">
-<code><a href="https://asaadzx.deno.dev" title="Personal Website"><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="Website"> Website</a></code>
+<code><a href="https://asaadzx.deno.dev" title="Personal Website"><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="Website"> Portfolio</a></code>
 <code><a href="https://github.com/asaadzx" title="GitHub Profile"><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"> GitHub</a></code>
+<code><a href="https://twitter.com/asaadzx" title="Twitter"><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter"> Twitter</a></code>
 </h5>
 
 <p align="center">
@@ -14,14 +15,14 @@
   <br>
   🌍 Open Source Advocate | 💻 Full Stack Developer | 🤖 Machine Learning Explorer
   <br>
-  🔬 Exploring the intersections of AI, web technologies, and mobile development
+  🔬 Pioneering innovations at the intersection of AI, web technologies, and mobile development
   <br>
-  📫 Reach me at: asaad.work2010@gmail.com
+  📫 Connect with me: asaad.work2010@gmail.com
 </p>
 
 <hr>
 
-## 🔥 Languages & Frameworks & Tools & Abilities 🔥
+<h2 align="center">🔥 Technologies & Skills 🔥</h2>
 
 <p align="center">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="Linux"> Linux</code>
@@ -44,7 +45,7 @@
 
 <hr>
 
-## ⚡ GitHub Stats ⚡
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <p align="center">
   <a href="https://github.com/asaadzx">
@@ -67,10 +68,10 @@
 
 <hr>
 
-## 👨‍💻 Featured Repositories 👨‍💻
+<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 
 <div width="100%" align="center">
-  <a href="https://github.com/asaadzx/Chemical-Goose-reaction" title="Goose game">
+  <a href="https://github.com/asaadzx/Chemical-Goose-reaction" title="Goose Game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Chemical-Goose-reaction&theme=dark" alt="Chemical Goose Reaction" />
   </a>
   
@@ -78,8 +79,12 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark" alt="Grok Linux APP" />
   </a>
   
-  <a href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions SharkOS">
+  <a href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source SharkOS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=SharkOS.org&theme=dark" alt="SharkOS" />
+  </a>
+  
+  <a href="https://github.com/asaadzx/Anas-bn-malek-School" title="School Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Anas-bn-malek-School&theme=dark" alt="Anas bn Malek School" />
   </a>
 </div>
 
@@ -89,8 +94,20 @@
 
 <hr>
 
-## 🌱 About Me
+<h2 align="center">🌱 About Me</h2>
 
-I'm deeply passionate about open-source development, machine learning, and creating innovative technologies that make a difference. My journey involves exploring cutting-edge tools like PyTorch, Deno, and various web technologies. I love contributing to the open-source community and building projects that solve real-world problems.
+I'm a young, passionate developer dedicated to pushing the boundaries of technology. My journey is driven by curiosity and a desire to create meaningful solutions through open-source development. I specialize in machine learning, web technologies, and mobile development, constantly exploring new tools and frameworks to expand my skills.
 
-**Always learning, always growing!** 💡🚀
+Some of my key interests include:
+- 🤖 Artificial Intelligence and Machine Learning
+- 💻 Full Stack Web Development
+- 📱 Cross-platform Mobile Applications
+- 🌐 Open Source Contributions
+
+**Always learning, always innovating!** 💡🚀
+
+<hr>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asaadzx&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
