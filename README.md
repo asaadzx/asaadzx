@@ -5,7 +5,7 @@
 </div>
 
 <h5 align="center">
-<code><a href="https://asaadzx.deno.dev" title="Personal Website"><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web/web-original.svg" alt="Website"> Website</a></code>
+<code><a href="https://asaadzx.deno.dev" title="Personal Website"><img height="22" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/web/web-original.svg" alt="Website"> Website</a></code>
 <code><a href="https://github.com/asaadzx" title="GitHub Profile"><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"> GitHub</a></code>
 </h5>
 
