@@ -7,8 +7,8 @@
 </div>
 
 <h5 align="center">
-  <code><a href="https://asaadzx.deno.dev" title="Personal Website"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M0 336c0 79.5 64.5 144 144 144l368 0c70.7 0 128-57.3 128-128c0-61.9-44-113.6-102.4-125.4c4.1-10.7 6.4-22.4 6.4-34.6c0-53-43-96-96-96c-19.7 0-38.1 6-53.3 16.2C367 64.2 315.3 32 256 32C167.6 32 96 103.6 96 192c0 2.7 .1 5.4 .2 8.1C40.2 219.8 0 273.2 0 336z"/></svg> Website</a></code>
-  <code><a href="https://github.com/asaaddev" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"> GitHub</a></code>
+  <code><a href="https://asaadzx.deno.dev" title="Personal Website"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/web.svg"> Website</a></code>
+  <code><a href="https://github.com/asaadzx" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"> GitHub</a></code>
 </h5>
 
 <p align="center">
@@ -26,20 +26,20 @@
 ## 🔥 Languages, Frameworks & Tools 🔥
 
 <p align="center">
-  <code><img title="Linux" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg"></code>
-  <code><img title="Bash" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg"></code>
-  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"></code>
-  <code><img title="Flutter" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"></code>
-  <code><img title="C++" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg"></code>
-  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"></code>
-  <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"></code>
-  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"></code>
-  <code><img title="Deno" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deno.svg"></code>
-  <code><img title="Fresh" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fresh.svg"></code>
-  <code><img title="PyTorch" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg"></code>
-  <code><img title="Ollama" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ollama.svg"></code>
-  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></code>
-  <code><img title="Android" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"></code>
+  <code><i class="fab fa-linux"></i> Linux</code>
+  <code><i class="fas fa-terminal"></i> Bash</code>
+  <code><i class="fab fa-python"></i> Python</code>
+  <code><i class="fab fa-flutter"></i> Flutter</code>
+  <code><i class="fas fa-code"></i> C++</code>
+  <code><i class="fab fa-html5"></i> HTML5</code>
+  <code><i class="fab fa-css3-alt"></i> CSS3</code>
+  <code><i class="fab fa-js"></i> JavaScript</code>
+  <code><i class="fab fa-deno"></i> Deno</code>
+  <code><i class="fas fa-leaf"></i> Fresh</code>
+  <code><i class="fas fa-brain"></i> PyTorch</code>
+  <code><i class="fas fa-robot"></i> Ollama</code>
+  <code><i class="fab fa-github"></i> GitHub</code>
+  <code><i class="fab fa-android"></i> Android</code>
 </p>
 
 <hr>
@@ -71,10 +71,10 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/asaadzx/epyac-ter" title="AI Projects">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=ai-projects&theme=dark" />
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=epyac-ter&theme=dark" />
   </a>
   <a align="right" href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions OS">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=open-source-contributions&theme=dark" />
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=SharkOS.org&theme=dark" />
   </a>
 </div>
 
