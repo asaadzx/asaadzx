@@ -63,13 +63,6 @@
 </p>
 <hr>
 
-## 🌱 About Me
-
-I'm deeply passionate about open-source development, machine learning, and creating innovative technologies that make a difference. My journey involves exploring cutting-edge tools like PyTorch, Ollama, and various web technologies. I love contributing to the open-source community and building projects that solve real-world problems.
-
-**Always learning, always growing!** 💡🚀
-
-<hr>
 
 ## 👨‍💻 Featured Repositories 👨‍💻
 
@@ -83,14 +76,8 @@ I'm deeply passionate about open-source development, machine learning, and creat
   <a align="left" href="https://github.com/asaadzx/Grok-Linux-APP" title="Grok AI">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark" />
   </a>
-  <a align="right" href="https://github.com/D3f4ult-dev/sharkwiki" title="Shark wiki">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=sharkwiki&theme=dark" />
-  </a>
   <a align="left" href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions SHarkOS">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=SharkOS.org&theme=dark" />
-  </a>
-  <a align="right" href="https://github.com/asaadzx/ACII-Arteitest" title="ACII artiest">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=ACII-Arteitest&theme=dark" />
   </a>
 </div>
 
@@ -102,6 +89,13 @@ I'm deeply passionate about open-source development, machine learning, and creat
   <a href="https://github.com/asaadzx?tab=repositories" title="Show More Repositories">🔎 Explore More 🔍</a>
 </h4>
 
+## 🌱 About Me
+
+I'm deeply passionate about open-source development, machine learning, and creating innovative technologies that make a difference. My journey involves exploring cutting-edge tools like PyTorch, Ollama, and various web technologies. I love contributing to the open-source community and building projects that solve real-world problems.
+
+**Always learning, always growing!** 💡🚀
+
+<hr>
 
 <!---
 - 👋 Hi, I’m @asaadzx
