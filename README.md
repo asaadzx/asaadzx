@@ -37,6 +37,10 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"> PyTorch</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="GitHub"> GitHub</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="Android"> Android</code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png">Visual Studio Code</code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+  <code><img title="Godot" height="25" src="https://godotengine.org/assets/logo_dark.svg">Godot</code>
+  <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg">MySQL</code>
 </p>
 
 <hr>
@@ -67,15 +71,24 @@
 ## 👨‍💻 Featured Repositories 👨‍💻
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/asaadzx/Chemical-Goose-reaction" title="Goose game">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Chemical-Goose-reaction&theme=dark" />
-  </a>
-  <a align="center" href="https://github.com/asaadzx/Grok-Linux-APP" title="Grok AI">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark" />
-  </a>
-  <a align="center" href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions SHarkOS">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=SharkOS.org&theme=dark" />
-  </a>
+  <div width="100%" align="center">
+    <a align="center" href="https://github.com/asaadzx/Chemical-Goose-reaction" title="Goose game">
+        <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Chemical-Goose-reaction&theme=dark" />
+    </a>
+  </div>
+  <br/><br/><br/><br/><br/><br/>
+  <div width="100%" align="center">
+    <a align="center" href="https://github.com/asaadzx/Grok-Linux-APP" title="Grok AI">
+        <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark" />
+    </a>
+  </div>
+  <br/><br/><br/><br/><br/><br/>
+  <div width="100%" align="center">
+    <a align="center" href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source Contributions SHarkOS">
+        <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=SharkOS.org&theme=dark" />
+    </a>
+  </div>
+  <br/><br/><br/><br/><br/><br/>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
