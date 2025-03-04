@@ -85,7 +85,7 @@
 
 <hr>
 
-<h4 align="center">
+<h4 align="right">
   <a href="https://github.com/asaadzx?tab=repositories" title="Show More Repositories">🔎 Explore More 🔍</a>
 </h4>
 
