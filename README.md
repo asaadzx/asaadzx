@@ -110,12 +110,11 @@ I'm deeply passionate about open-source development, machine learning, and creat
 
 <hr>
 
-<h4 align="center">
+<!---<h4 align="center">
   <a href="https://github.com/asaadzx?tab=repositories" title="Show More Repositories">🔎 Explore More 🔍</a>
 </h4>
 
 
-<!---
 - 👋 Hi, I’m @asaadzx
 - 👀 I’m interested in code 
 - 🌱 I’m currently learning code
