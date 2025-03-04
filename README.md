@@ -26,20 +26,19 @@
 ## 🔥 Languages, Frameworks & Tools 🔥
 
 <p align="center">
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f427.png" height="25" alt="Linux"> Linux</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f4bb.png" height="25" alt="Bash"> Bash</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f40d.png" height="25" alt="Python"> Python</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f98b.png" height="25" alt="Flutter"> Flutter</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f527.png" height="25" alt="C++"> C++</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f310.png" height="25" alt="HTML5"> HTML5</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f3a8.png" height="25" alt="CSS3"> CSS3</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f4d1.png" height="25" alt="JavaScript"> JavaScript</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f995.png" height="25" alt="Deno"> Deno</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f33f.png" height="25" alt="Fresh"> Fresh</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f525.png" height="25" alt="PyTorch"> PyTorch</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f916.png" height="25" alt="Ollama"> Ollama</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f419.png" height="25" alt="GitHub"> GitHub</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@v13.0.1/assets/72x72/1f4f1.png" height="25" alt="Android"> Android</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="Linux"> Linux</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="25" alt="Bash"> Bash</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python"> Python</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="Flutter"> Flutter</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="C++"> C++</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5"> HTML5</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3"> CSS3</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript"> JavaScript</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="25" alt="Deno"> Deno</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="Next.js"> Next.js</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"> PyTorch</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="GitHub"> GitHub</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="Android"> Android</code>
 </p>
 
 <hr>
