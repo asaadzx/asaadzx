@@ -61,6 +61,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaadzx&theme=github-dark" width="100%" alt="Contribution Graph" />
 </p>
+<hr>
+
+## 🌱 About Me
+
+I'm deeply passionate about open-source development, machine learning, and creating innovative technologies that make a difference. My journey involves exploring cutting-edge tools like PyTorch, Ollama, and various web technologies. I love contributing to the open-source community and building projects that solve real-world problems.
 
 <hr>
 
@@ -103,9 +108,6 @@
 
 <hr>
 
-## 🌱 About Me
-
-I'm deeply passionate about open-source development, machine learning, and creating innovative technologies that make a difference. My journey involves exploring cutting-edge tools like PyTorch, Ollama, and various web technologies. I love contributing to the open-source community and building projects that solve real-world problems.
 
 **Always learning, always growing!** 💡🚀
 
