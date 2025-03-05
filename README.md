@@ -17,7 +17,7 @@
   <br>
   🔬 Pioneering innovations at the intersection of AI, web technologies, and mobile development
   <br>
-  📫 Connect with me: asaad.work2010@gmail.com
+  📫 Connect with me: <a href="mailto:asaad.work2010@gmail.com">Gmail</a>
 </p>
 
 <hr>
