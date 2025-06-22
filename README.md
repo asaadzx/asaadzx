@@ -74,15 +74,15 @@
   <a href="https://github.com/asaadzx/Chemical-Goose-reaction" title="Goose Game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Chemical-Goose-reaction&theme=dark" alt="Chemical Goose Reaction" />
   </a>
-  
+
   <a href="https://github.com/asaadzx/Grok-Linux-APP" title="Grok AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark" alt="Grok Linux APP" />
   </a>
-  
+
   <a href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source SharkOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=D3f4ult-dev&repo=SharkOS.org&theme=dark" alt="SharkOS" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakOS&repo=zenshell&theme=dark" alt="SharkOS" />
   </a>
-  
+
   <a href="https://github.com/asaadzx/Anas-bn-malek-School" title="School Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Anas-bn-malek-School&theme=dark" alt="Anas bn Malek School" />
   </a>
