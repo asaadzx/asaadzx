@@ -1,113 +1,175 @@
 <div align="center">
-  <a href="https://typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I'm+Asaad+👋;Open+Source+Innovator;Full+Stack+Developer;Machine+Learning+Explorer" alt="Typing SVG" />
-  </a>
+
+# 🚀 Asaad | Developer & Digital Artist 🎨
+
+[Portfolio](https://asaadzx.is-a.dev) • [Twitter](https://x.com/Asaad123TY) • [Email](mailto:asaad.work2010@gmail.com)
+
+> _"Where Code Meets Creativity"_
+
 </div>
 
-<h5 align="center">
-<code><a href="https://asaadzx.is-a.dev" title="Personal Website"><img height="22" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="Website"> Portfolio</a></code>
-<code><a href="https://github.com/asaadzx" title="GitHub Profile"><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"> GitHub</a></code>
-<code><a href="https://x.com/Asaad123TY" title="Twitter"><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter"> Twitter</a></code>
-</h5>
+<div align="center">
+  
+### 🎭 Full Stack Developer • Digital Artist • DevOps Engineer • AI Explorer • Origami Enthusiast
 
-<p align="center">
-  Hey there! I'm Asaad, a 14-year-old passionate open-source developer and tech enthusiast 🚀
-  <br>
-  🌍 Open Source Advocate | 💻 Full Stack Developer | 🤖 Machine Learning Explorer
-  <br>
-  🔬 Pioneering innovations at the intersection of AI, web technologies, and mobile development
-  <br>
-  📫 Connect with me: <a href="mailto:asaad.work2010@gmail.com">Gmail</a>
-</p>
-
-<hr>
-
-<h2 align="center">🔥 Technologies & Skills 🔥</h2>
-
-<p align="center">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="Linux"> Linux</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="25" alt="Bash"> Bash</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python"> Python</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="Flutter"> Flutter</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="C++"> C++</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5"> HTML5</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3"> CSS3</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript"> JavaScript</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="25" alt="Deno"> Deno</code>
-  <code><img src="https://fresh.deno.dev/logo.svg?__frsh_c=608a6b59c83552bca1e4f893cc42f003cce993e6" height="25" alt="Fresh"> Fresh</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch"> PyTorch</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="GitHub"> GitHub</code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="Android"> Android</code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"> VSCode</code>
-  <code><img title="Godot" height="25" src="https://godotengine.org/assets/logo_dark.svg"> Godot</code>
-  <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"> MySQL</code>
-</p>
-
-<hr>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
-<p align="center">
-  <a href="https://github.com/asaadzx">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asaadzx&theme=dark&background=000000" alt="Asaad's GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/asaadzx">
-    <img src="https://github-readme-stats.vercel.app/api?username=asaadzx&show_icons=true&theme=dark&count_private=true" alt="Asaad's GitHub Stats" />
-  </a>
-  <a href="https://github.com/asaadzx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaadzx&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaadzx&theme=github-dark" width="100%" alt="Contribution Graph" />
-</p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
-
-<div width="100%" align="center">
-  <a href="https://github.com/asaadzx/Chemical-Goose-reaction" title="Goose Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Chemical-Goose-reaction&theme=dark" alt="Chemical Goose Reaction" />
-  </a>
-
-  <a href="https://github.com/asaadzx/Grok-Linux-APP" title="Grok AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark" alt="Grok Linux APP" />
-  </a>
-
-  <a href="https://github.com/D3f4ult-dev/SharkOS.org" title="Open Source SharkOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakOS&repo=zenshell&theme=dark" alt="SharkOS" />
-  </a>
-
-  <a href="https://github.com/asaadzx/Anas-bn-malek-School" title="School Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Anas-bn-malek-School&theme=dark" alt="Anas bn Malek School" />
-  </a>
 </div>
 
-<h4 align="center">
-  <a href="https://github.com/asaadzx?tab=repositories" title="Show More Repositories">🔎 Explore More Repositories 🔍</a>
-</h4>
+---
 
-<hr>
+## 👋 Hello World!
 
-<h2 align="center">🌱 About Me</h2>
+Hey there! I'm Asaad, a 14-year-old developer and digital artist passionate about merging technology with creativity. I craft digital experiences that blend the precision of code with the beauty of art.
 
-I'm a young, passionate developer dedicated to pushing the boundaries of technology. My journey is driven by curiosity and a desire to create meaningful solutions through open-source development. I specialize in machine learning, web technologies, and mobile development, constantly exploring new tools and frameworks to expand my skills.
+```python
+class Asaad:
+    def __init__(self):
+        self.name = "Asaad"
+        self.role = "Full Stack Developer"
+        self.language_spoken = ["ar_SA", "en_US"]
+        self.interests = [
+            "Open Source Development",
+            "3D Digital Art",
+            "Machine Learning",
+            "Origami Design",
+            "Cross-platform Apps",
+            "Cloud Architecture"
+        ]
+        self.cloud_stack = {
+            "platforms": ["Google Cloud", "Vercel"],
+            "databases": ["PostgreSQL", "MySQL"],
+            "deployment": ["CI/CD", "Docker", "Cloud Run"]
+        }
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's create something amazing together!")
 
-Some of my key interests include:
-- 🤖 Artificial Intelligence and Machine Learning
-- 💻 Full Stack Web Development
-- 📱 Cross-platform Mobile Applications
-- 🌐 Open Source Contributions
+me = Asaad()
+me.say_hi()
+```
 
-**Always learning, always innovating!** 💡🚀
+## 🎨 Creative Tech Stack
 
-<hr>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asaadzx&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+| Development | Creative | DevOps & Cloud | Tools & Platforms |
+|-------------|----------|----------------|------------------|
+| Python 🐍 | Blender 3D | Google Cloud ☁️ | Linux |
+| Flutter 📱 | Three.js | Vercel ▲ | VS Code |
+| C++ ⚡ | Godot Engine | PostgreSQL 🐘 | Git |
+| JavaScript 🌐 | PyTorch | Docker 🐋 | MySQL |
+| HTML/CSS 🎨 | Fresh | Cloud Run 🚀 | Android |
+| Deno 🦕 | Computational Art | CI/CD 🔄 | GitHub |
+
+</div>
+
+## 🌟 Current Focus
+
+- 🤖 Building AI-powered applications
+- ☁️ Cloud-native application development
+- 🎮 Game development with Godot
+- 📐 Digital origami and 3D art creation
+- 🌐 Contributing to open-source projects
+- 📱 Cross-platform mobile development
+- 🛠️ DevOps automation and optimization
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asaadzx&theme=dark&background=000000)](https://github.com/asaadzx)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asaadzx&layout=compact&theme=dark)](https://github.com/asaadzx)
+
+</div>
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![Chemical Goose Reaction](https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Chemical-Goose-reaction&theme=dark)](https://github.com/asaadzx/Chemical-Goose-reaction)
+[![Grok Linux APP](https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark)](https://github.com/asaadzx/Grok-Linux-APP)
+[![SharkOS](https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakOS&repo=zenshell&theme=dark)](https://github.com/D3f4ult-dev/SharkOS.org)
+[![School Project](https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Anas-bn-malek-School&theme=dark)](https://github.com/asaadzx/Anas-bn-malek-School)
+
+[🔍 Explore More Projects](https://github.com/asaadzx?tab=repositories)
+
+</div>
+
+## 🎨 Art Meets Technology
+
+I believe in the powerful intersection of art and technology. My background in origami and 3D art brings unique perspectives to software development:
+
+- **Geometric Thinking**: Applying spatial reasoning to solve complex problems
+- **Pattern Recognition**: Finding elegant solutions through creative patterns
+- **Detail-Oriented**: Bringing precision from paper folding to code
+- **Creative Problem-Solving**: Using artistic thinking in technical challenges
+
+## 🌱 Growth Areas
+
+```mermaid
+mindmap
+  root((Skills))
+    Programming
+      Full Stack Development
+      Mobile Apps
+      Game Development
+    Cloud & DevOps
+      Google Cloud
+      Vercel
+      PostgreSQL
+      Docker
+    Art & Design
+      3D Modeling
+      Digital Origami
+      Computational Art
+    AI & ML
+      PyTorch
+      Neural Networks
+      Creative AI
+    Open Source
+      Collaboration
+      Innovation
+      Community
+```
+
+## 💻 Infrastructure & DevOps
+
+```yaml
+Cloud Services:
+  Google Cloud:
+    - Cloud Run
+    - Cloud Storage
+    - Cloud SQL
+  Vercel:
+    - Edge Functions
+    - Serverless Deployment
+    - Analytics
+
+Databases:
+  PostgreSQL:
+    - Performance Optimization
+    - Data Modeling
+    - High Availability
+  
+CI/CD:
+  - Automated Testing
+  - Continuous Deployment
+  - Infrastructure as Code
+```
+
+## 📫 Let's Connect!
+
+- 💼 Open for collaboration on creative tech projects
+- 🎨 Looking to merge art with technology
+- ☁️ Passionate about cloud architecture and DevOps
+- 🤝 Always excited to meet fellow developers and artists
+
+<div align="center">
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=asaadzx&style=flat-square&color=blue)](https://github.com/asaadzx)
+
+_Last Updated: 2025-07-04_
+
+</div>
