@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  
+
 ### 🎭 Full Stack Developer • Digital Artist • DevOps Engineer • AI Explorer • Origami Enthusiast
 
 </div>
@@ -39,7 +39,7 @@ class Asaad:
             "databases": ["PostgreSQL", "MySQL"],
             "deployment": ["CI/CD", "Docker", "Cloud Run"]
         }
-    
+
     def say_hi(self):
         print("Thanks for dropping by! Let's create something amazing together!")
 
@@ -88,7 +88,7 @@ me.say_hi()
 
 [![Chemical Goose Reaction](https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Chemical-Goose-reaction&theme=dark)](https://github.com/asaadzx/Chemical-Goose-reaction)
 [![Grok Linux APP](https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark)](https://github.com/asaadzx/Grok-Linux-APP)
-[![SharkOS](https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakOS&repo=zenshell&theme=dark)](https://github.com/D3f4ult-dev/SharkOS.org)
+[![Zen Shell](https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakOS&repo=zenshell&theme=dark)](https://github.com/GhostFreakOS/Zenshell)
 [![School Project](https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Anas-bn-malek-School&theme=dark)](https://github.com/asaadzx/Anas-bn-malek-School)
 
 [🔍 Explore More Projects](https://github.com/asaadzx?tab=repositories)
@@ -150,7 +150,7 @@ Databases:
     - Performance Optimization
     - Data Modeling
     - High Availability
-  
+
 CI/CD:
   - Automated Testing
   - Continuous Deployment
