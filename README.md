@@ -91,7 +91,7 @@ me.say_hi()
 
 [![Chemical Goose Reaction](https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Chemical-Goose-reaction&theme=dark)](https://github.com/asaadzx/Chemical-Goose-reaction)
 [![Grok Linux APP](https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark)](https://github.com/asaadzx/Grok-Linux-APP)
-[![Zen Shell](https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakOS&repo=zenshell&theme=dark)](https://github.com/GhostFreakOS/Zenshell)
+[![Zen Shell](https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakOS&repo=zenshell&theme=dark)](https://github.com/Asaadzx/Zenshell)
 [![School Project](https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Anas-bn-malek-School&theme=dark)](https://github.com/asaadzx/Anas-bn-malek-School)
 
 [🔍 Explore More Projects](https://github.com/asaadzx?tab=repositories)
