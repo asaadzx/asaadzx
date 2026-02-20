@@ -79,19 +79,6 @@ me.say_hi()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asaadzx&theme=dark&background=000000)](https://github.com/asaadzx)
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Chemical Goose Reaction](https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Chemical-Goose-reaction&theme=dark)](https://github.com/asaadzx/Chemical-Goose-reaction)
-[![Grok Linux APP](https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Grok-Linux-APP&theme=dark)](https://github.com/asaadzx/Grok-Linux-APP)
-[![Zen Shell](https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakOS&repo=zenshell&theme=dark)](https://github.com/Asaadzx/Zenshell)
-[![School Project](https://github-readme-stats.vercel.app/api/pin/?username=asaadzx&repo=Anas-bn-malek-School&theme=dark)](https://github.com/asaadzx/Anas-bn-malek-School)
-
-[🔍 Explore More Projects](https://github.com/asaadzx?tab=repositories)
-
-</div>
-
 ## 🎨 Art Meets Technology
 
 I believe in the powerful intersection of art and technology. My background in origami and 3D art brings unique perspectives to software development:
