@@ -77,12 +77,6 @@ me.say_hi()
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asaadzx&theme=dark&background=000000)](https://github.com/asaadzx)
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=asaadzx&show_icons=true&theme=dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asaadzx&layout=compact&theme=dark)](https://github.com/asaadzx)
-
 </div>
 
 ## 🎯 Featured Projects
