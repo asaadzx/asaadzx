@@ -153,7 +153,7 @@ CI/CD:
 ---
 
 [![Profile Views](https://komarev.com/ghpvc/?username=asaadzx&style=flat-square&color=blue)](https://github.com/asaadzx)
-
-_Last Updated: 2025-07-04_
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/asaadzx)
+_Last Updated: 2026-05-10_
 
 </div>
