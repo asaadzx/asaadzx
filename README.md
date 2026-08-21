@@ -21,7 +21,7 @@
 
 <img align="right" width="240" src="assets/astro.gif" alt="astronaut" />
 
-## `$ whoami` <img src="assets/wave.gif" width="30" />
+## `$ whoami` <img src="assets/wave.gif" width="20" />
 
 ```console
 asaad@github:~$ whoami
