@@ -17,11 +17,9 @@
 
 </div>
 
----
+<img align="right" width="280" src="assets/astro.gif" alt="astronaut" />
 
-<img align="right" width="240" src="assets/astro.gif" alt="astronaut" />
-
-## `$ whoami` <img src="assets/wave.gif" width="20" />
+## `$ whoami` <img src="assets/wave.gif" width="35" />
 
 ```console
 asaad@github:~$ whoami
