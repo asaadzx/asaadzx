@@ -126,8 +126,6 @@ mindmap
 
 <div align="center">
 
----
-
 <img src="assets/earth.gif" width="120" alt="earth" />
 
 [![Email](https://img.shields.io/badge/Email-asaad.work2010%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asaad.work2010@gmail.com)
