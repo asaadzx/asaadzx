@@ -120,8 +120,8 @@ mindmap
 
 - [**The DNA of Embedded Systems**](https://asaadzx.is-a.dev/blog/embedded-systems-dna/) — how embedded architectures actually work
 - [**Security Geeks: Ethical Hacking**](https://asaadzx.is-a.dev/blog/security-geeks-presentation/) — offensive security fundamentals
+- [**The Climate Crisis: Effects and Fixes**](https://asaadzx.is-a.dev/blog/climate-crisis-effects-and-fixes/) —  research dive into two major effects of the climate crisis food security and extreme weather
 - [**The Modern Developer's AI Workspace**](https://asaadzx.is-a.dev/blog/ai-workspace-guide/) — building a terminal-driven AI dev environment
-
 ---
 
 <div align="center">
