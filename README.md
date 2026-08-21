@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" width="260" src="assets/astro.gif" alt="astronaut" />
+<img align="right" width="240" src="assets/astro.gif" alt="astronaut" />
 
 ## `$ whoami` <img src="assets/wave.gif" width="30" />
 
