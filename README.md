@@ -17,7 +17,6 @@
 
 </div>
 
-<img align="right" width="280" src="assets/astro.gif" alt="astronaut" />
 
 ## `$ whoami` <img src="assets/wave.gif" width="35" />
 
@@ -35,6 +34,7 @@ aerospace-systems/  local-ai-inference/  embedded-hardware/
 procedural-shaders/  research/
 ```
 
+<img align="right" width="280" src="assets/astro.gif" alt="astronaut" />
 <br clear="right" />
 
 ---
